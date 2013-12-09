@@ -1,6 +1,0 @@
-digraph Beziehungen {
-Bernd -> Franz [label="hasst"]
-Franz -> Bernd [label="hasst"]
-Franz -> Jutta [label="liebt"]
-Bernd -> Jutta [label="liebt"]
-}
